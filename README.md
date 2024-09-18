@@ -1,5 +1,5 @@
 # API_fuzzer
-# Simple python program for API Fuzzing
+# Just another fuzzer for API Fuzzing
 Usage: ./apifuzzerv2.py --no-ssl # if want to disable SSL checks
 
 python apifuzzerv2.py --no-ssl
